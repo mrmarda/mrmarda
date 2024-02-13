@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?mrmarda=mrmarda&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrmarda&show_icons=true&count_private=true)
 
 
 <div align="center">
