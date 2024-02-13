@@ -18,3 +18,11 @@ Here are some ideas to get you started:
 
 <!-- GitHub Stats Card -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?mrmarda=mrmarda&show_icons=true&count_private=true)
+
+
+<div align="center">
+
+#### 🌟 Visitors over time
+![](https://komarev.com/ghpvc/?username=mrmarda&label=PROFILE+VIEWS&style=plastic)
+
+</div>
