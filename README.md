@@ -35,7 +35,10 @@
 
 ## Certifications
 
--
--
+- DataCamp
+
+## LeetCode
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/mardas)](https://leetcode.com/mardas)
 
 
